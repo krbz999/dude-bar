@@ -1,3 +1,5 @@
+Interested in following along with development of any of my modules? Join the [Discord server](https://discord.gg/QAG8eWABGT). 
+
 # Dude Bar
 Turn your sidebar into a ~~typo~~ a dude bar.
 
